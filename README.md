@@ -22,3 +22,4 @@ Open the project in Google Colab, follow the instructions, and run the cells to 
 
 Acknowledgments
 Developed during my internship at Codtech.
+output:![Image](https://github.com/user-attachments/assets/3ee5b159-3386-4ada-b496-9813202c0905)
